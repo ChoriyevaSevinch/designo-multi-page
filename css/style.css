@@ -689,7 +689,7 @@ footer .footer-link .icon a svg path:hover {
     margin-bottom: 120px;
     max-height: 843px;
     padding: 80px 24px;
-    max-width: 375px;
+    width: 100%;
   }
   .promo .container .promo-content h1 {
     font-weight: 500;
@@ -697,7 +697,6 @@ footer .footer-link .icon a svg path:hover {
     line-height: 100%;
     color: #fff;
     margin-bottom: 14px;
-    max-width: 327px;
   }
   .promo .container .promo-content p {
     font-weight: 400;
